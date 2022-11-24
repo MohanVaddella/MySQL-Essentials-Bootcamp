@@ -1,0 +1,4 @@
+Write a query to display the names (first_name, last_name) using alias name “First Name", "Last Name"
+Solution:
+SELECT first_name "First Name",  last_name "Last Name" 
+FROM EMPLOYEES;
